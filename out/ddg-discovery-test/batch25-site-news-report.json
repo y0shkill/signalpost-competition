@@ -1,0 +1,7 @@
+{
+  "connector": "exact_company_site_news_activity_v1",
+  "profiles": 4,
+  "companies_with_activity": 1,
+  "observations": 1,
+  "claim_boundary": "Company-owned activity only; never treated as independent sentiment."
+}
