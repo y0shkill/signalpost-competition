@@ -1,0 +1,228 @@
+[
+  {
+    "organisation_number": "811573302",
+    "name": "BARANSU AS",
+    "website": "https://baransu.wordpress.com/category/baransus-world/",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:20:29.727163Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811684872",
+    "name": "MANOV GLOBAL AS",
+    "website": "https://www.internationalcorp.org/manov-global-as",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:21:43.772662Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811747092",
+    "name": "J.C. TRANSPORTSERVICE AS",
+    "website": "https://www.sportcompanies.org/j-c-transportservice-as",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:23:23.957973Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811938432",
+    "name": "TONAPP AS",
+    "website": "https://tonapp.no/",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:26:35.765067Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812021982",
+    "name": "DELCOM AS",
+    "website": "https://www.delcom.no/kontakt.html",
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:27:48.696891Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812119672",
+    "name": "FARHAN RAFIQUE AS",
+    "website": "https://bdinfo.no/org/812119672/farhan-rafique-as/",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:30:13.577689Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812156632",
+    "name": "VOSSAMORO AS",
+    "website": "https://www.vossamoro.no/booking",
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:31:52.827757Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812159062",
+    "name": "ASKEPOTTS RENHOLD AS",
+    "website": "https://www.renholdere.no/renholdere/askepotts-renhold-as/",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:32:20.435817Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812181882",
+    "name": "SKOGSKRAFT AS",
+    "website": "https://skogskraft.no/",
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:35:26.173001Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812181912",
+    "name": "LIFTMANN AS",
+    "website": "https://liftmann.no/",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:36:00.447970Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812187082",
+    "name": "TELLUS LOGISTICS AS",
+    "website": "https://www.telluslogistics.no/",
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:36:31.700342Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812246542",
+    "name": "PORTO AS",
+    "website": "https://porto.travel/de/douro-tal/",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:41:25.104532Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812276212",
+    "name": "FEEL FREE PRODUCTION AS",
+    "website": "https://www.feelfreeproduction.no/",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:43:02.695906Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812355252",
+    "name": "ET WORKS AS",
+    "website": "https://www.etworks.com/",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:46:33.345053Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812391402",
+    "name": "KAASENE GROUP AS",
+    "website": "https://nordlei.org/lei/6367001RHAPPLYT9L543/kaasene-group-as",
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:48:05.399674Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812520202",
+    "name": "HAVANA - MAGASINET AS",
+    "website": "https://havanamagasinet.no/om-oss/",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T04:55:44.240490Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812558412",
+    "name": "INNOVATEK AS",
+    "website": "https://innovatek.in/about-us/",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:00:16.270639Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812668722",
+    "name": "ATYS AS",
+    "website": "https://www.atys.pro/blog/crm/nao-perder-leads-instagram-facebook",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:03:38.348210Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812676342",
+    "name": "A HILLING AS",
+    "website": "https://www.creditsafe.com/business-index/en-lu/company/a-hilling-as-no00000160",
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:05:18.287778Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812696262",
+    "name": "COLIN HOLDNING AS",
+    "website": "https://nordlei.org/lei/549300V0H6WYJSO4JK89/colin-holdning-as",
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:05:57.546690Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  }
+]

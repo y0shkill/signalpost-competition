@@ -12,6 +12,7 @@ BLOCKED_DISCOVERY_HOSTS = {
     "proff.no", "purehelp.no", "1881.no", "gulesider.no", "firmalisten.no", "companywall.no",
     "firmadatabasen.no", "sokfirma.no", "yra.no", "northdata.com", "nor47business.com",
     "linkedin.com", "facebook.com", "instagram.com", "x.com", "twitter.com", "youtube.com", "tiktok.com",
+    "business.google.com", "bedriftsoversikten.no", "b2bhint.com", "opencorporates.com",
 }
 GENERIC_NAME_TOKENS = {"as", "asa", "ans", "da", "enk", "sa", "nuf", "company", "norge", "norway", "gruppen", "group"}
 
@@ -112,9 +113,20 @@ def choose_search_candidate(profile: dict[str, Any], results: list[dict[str, Any
     assessed = [score_search_candidate(profile, result) for result in results]
     assessed.sort(key=lambda item: (-item.get("score", 0.0), item.get("rank") or 10_000, item.get("url") or ""))
     accepted = [item for item in assessed if item.get("publishable_candidate")]
+    selected = accepted[0] if accepted else None
+    # Directory/aggregator hosts are filtered before scoring and can never be a website
+    # candidate. But an unknown-host result with name evidence in title/snippet is still
+    # worth an independent crawl: the fetched-page exact-entity identity gate decides.
+    if selected is None:
+        crawlable = [
+            item for item in assessed
+            if item.get("status") != "rejected" and item.get("host")
+        ]
+        if crawlable:
+            selected = crawlable[0]
     return {
-        "selected": accepted[0] if accepted else None,
+        "selected": selected,
         "candidates": assessed,
-        "abstained": not accepted,
+        "abstained": selected is None,
         "policy": "A search result is only a crawl candidate. Publication still requires fetched-page exact-entity verification.",
     }

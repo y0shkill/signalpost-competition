@@ -1,0 +1,239 @@
+[
+  {
+    "organisation_number": "811573302",
+    "name": "BARANSU AS",
+    "website": "https://baransu.wordpress.com/category/baransus-world/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:18:01.510846Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811684872",
+    "name": "MANOV GLOBAL AS",
+    "website": null,
+    "directory_presence": "https://www.internationalcorp.org/manov-global-as",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-16T05:20:54.773548Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811747092",
+    "name": "J.C. TRANSPORTSERVICE AS",
+    "website": null,
+    "directory_presence": "https://www.sportcompanies.org/j-c-transportservice-as",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-16T05:24:54.026929Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811938432",
+    "name": "TONAPP AS",
+    "website": "https://tonapp.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:32:39.177092Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812021982",
+    "name": "DELCOM AS",
+    "website": "https://www.delcom.no/kontakt.html",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:36:07.830164Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812156632",
+    "name": "VOSSAMORO AS",
+    "website": "https://www.vossamoro.no/booking",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:41:55.186104Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812159062",
+    "name": "ASKEPOTTS RENHOLD AS",
+    "website": null,
+    "directory_presence": "https://www.renholdere.no/renholdere/askepotts-renhold-as/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-16T05:42:33.391982Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812181882",
+    "name": "SKOGSKRAFT AS",
+    "website": "https://skogskraft.no/",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:45:55.435217Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812181912",
+    "name": "LIFTMANN AS",
+    "website": "https://liftmann.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:46:33.429657Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812187082",
+    "name": "TELLUS LOGISTICS AS",
+    "website": "https://www.telluslogistics.no/",
+    "own_site_signals": [
+      "org_number_printed",
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:47:12.678092Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812276212",
+    "name": "FEEL FREE PRODUCTION AS",
+    "website": "https://www.feelfreeproduction.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:54:56.739355Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812355252",
+    "name": "ET WORKS AS",
+    "website": "https://www.etworks.com/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T05:59:00.237365Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812391402",
+    "name": "KAASENE GROUP AS",
+    "website": null,
+    "directory_presence": "https://nordlei.org/lei/6367001RHAPPLYT9L543/kaasene-group-as",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-16T06:00:43.317474Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812520202",
+    "name": "HAVANA - MAGASINET AS",
+    "website": "https://havanamagasinet.no/om-oss/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-16T06:07:56.871262Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812558412",
+    "name": "INNOVATEK AS",
+    "website": null,
+    "directory_presence": "https://innovatek.in/about-us/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-16T06:12:30.858605Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812668722",
+    "name": "ATYS AS",
+    "website": null,
+    "directory_presence": "https://www.atys.pro/blog/crm/nao-perder-leads-instagram-facebook",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-16T06:15:38.363205Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812676342",
+    "name": "A HILLING AS",
+    "website": null,
+    "directory_presence": "https://www.creditsafe.com/business-index/en-lu/company/a-hilling-as-no00000160",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-16T06:17:18.254819Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812696262",
+    "name": "COLIN HOLDNING AS",
+    "website": null,
+    "directory_presence": "https://nordlei.org/lei/549300V0H6WYJSO4JK89/colin-holdning-as",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-16T06:17:58.260486Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  }
+]
