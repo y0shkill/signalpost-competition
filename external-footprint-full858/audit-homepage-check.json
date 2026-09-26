@@ -1,0 +1,83 @@
+{
+ "811665762": {
+  "home": "https://www.finn.no/",
+  "status": 200,
+  "org_printed": false,
+  "title": "FINN.no – mulighetenes marked",
+  "name_tokens_found": []
+ },
+ "811736252": {
+  "home": "https://www.asker.kommune.no/",
+  "status": 200,
+  "org_printed": false,
+  "title": "Startsiden | Asker kommune",
+  "name_tokens_found": [
+   "SÆTRE"
+  ]
+ },
+ "811824062": {
+  "home": "https://rejstrik-firem.kurzy.cz/",
+  "status": 200,
+  "org_printed": false,
+  "title": "Obchodní rejstřík firem - vazby a vztahy z justice.cz | Kurzy.cz",
+  "name_tokens_found": []
+ },
+ "811874132": {
+  "home": "https://www.klesbutikk.no/",
+  "status": 200,
+  "org_printed": false,
+  "title": "Klesbutikk.no | Finn klesbutikker i hele Norge",
+  "name_tokens_found": [
+   "TRONDHEIM"
+  ]
+ },
+ "812077902": {
+  "home": "https://tikkio.com/",
+  "status": 200,
+  "org_printed": false,
+  "title": "Finn og kjøp billetter til events, konserter og festivaler | Tikkio",
+  "name_tokens_found": [
+   "MUSIKK",
+   "UNDERHOLDNING"
+  ]
+ },
+ "812231022": {
+  "home": "https://poppel.app/",
+  "status": 200,
+  "org_printed": false,
+  "title": "Peppol Lookup – Find a Participant by Peppol ID | Poppel",
+  "name_tokens_found": []
+ },
+ "812398652": {
+  "home": "https://krsfirma.no/",
+  "status": 200,
+  "org_printed": false,
+  "title": "KRS Firma - Kristiansand | krsfirma.no",
+  "name_tokens_found": []
+ },
+ "812442562": {
+  "home": "https://www.worldfreedomfund.org/",
+  "status": 200,
+  "org_printed": false,
+  "title": "World Freedom Fund | Støtt kampen for rettferdighet – les mer nå",
+  "name_tokens_found": []
+ },
+ "812467182": {
+  "home": "https://www.praymorenovenas.com/",
+  "status": 200,
+  "org_printed": false,
+  "title": "Pray More Novenas - Novena Prayers & Catholic Devotion",
+  "name_tokens_found": [
+   "MORE"
+  ]
+ },
+ "812717952": {
+  "home": "https://www.bastec.se/",
+  "status": 200,
+  "org_printed": false,
+  "title": "Effektiv fastighetsautomation – Styr smart | Bastec AB",
+  "name_tokens_found": [
+   "BASTEC"
+  ]
+ }
+}

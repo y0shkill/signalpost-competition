@@ -1,0 +1,74 @@
+{
+  "corpus": "frozen submission-1000 research-agent suite v2 (derived on run1000-001 profiles)",
+  "profiles": 1000,
+  "questions": 4,
+  "single_company_supported": true,
+  "screen_results": [
+    {
+      "query": "companies in Oslo with more than 5 employees and revenue over 1 million top 10 by revenue",
+      "expected": [
+        "810392312",
+        "811651532",
+        "811600792",
+        "812189492",
+        "812607812",
+        "812794922",
+        "812418572",
+        "812702742",
+        "812664522",
+        "812206222"
+      ],
+      "actual": [
+        "810392312",
+        "811651532",
+        "811600792",
+        "812189492",
+        "812607812",
+        "812794922",
+        "812418572",
+        "812702742",
+        "812664522",
+        "812206222"
+      ],
+      "exact_membership_and_order": true,
+      "exact_plan": true,
+      "citations_complete": true
+    },
+    {
+      "query": "top 5 by revenue",
+      "expected": [
+        "810392312",
+        "812750062",
+        "811176702",
+        "811943622",
+        "811413682"
+      ],
+      "actual": [
+        "810392312",
+        "812750062",
+        "811176702",
+        "811943622",
+        "811413682"
+      ],
+      "exact_membership_and_order": true,
+      "exact_plan": true,
+      "citations_complete": true
+    }
+  ],
+  "unsupported_abstention": true,
+  "saved_work": true,
+  "provenance_export": true,
+  "points": {
+    "cited_single_company_qa": 4,
+    "cross_company_screening": 3.0,
+    "exact_inspectable_filters": 2.0,
+    "unsupported_abstention": 1,
+    "saved_history": 1,
+    "provenance_export": 1
+  },
+  "score": 12.0,
+  "maximum": 12,
+  "qualification_passed": true,
+  "external_footprint_qa_passed": true,
+  "external_footprint_audit_ref": "/root/daily-money-maker/signalpost/external-footprint-full858/external-audit-report.json"
+}

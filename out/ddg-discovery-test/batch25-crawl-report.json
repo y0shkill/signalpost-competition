@@ -1,0 +1,74 @@
+{
+  "input_sha256": "6efabc92ffb30e9a6dd7229d561665c0d8f995ac51c52f91e8e192745d3e1db0",
+  "profiles": 4,
+  "website_seeds_selected": 4,
+  "profiles_with_events": 4,
+  "unique_events": 18,
+  "events_added": 18,
+  "events_present_before_run": 0,
+  "synthetic_terminal_events": 0,
+  "website_statuses": {
+    "available": 4
+  },
+  "identity_statuses": {
+    "exact": 4
+  },
+  "published_social_profiles": 8,
+  "elapsed_seconds": 5.375,
+  "run_started_at": "2026-09-15T04:55:31.710510Z",
+  "run_finished_at": "2026-09-15T04:55:37.085841Z",
+  "events_per_second": 3.349,
+  "requests": 23,
+  "responses": 23,
+  "response_bytes": 681440,
+  "retries": 0,
+  "robots_forbidden": 0,
+  "request_wall_latency_including_queue": {
+    "n": 23,
+    "p50_ms": 542.645,
+    "p95_ms": 1734.865,
+    "max_ms": 1867.199
+  },
+  "response_download_latency": {
+    "n": 23,
+    "p50_ms": 311.413,
+    "p95_ms": 881.083,
+    "max_ms": 1181.474
+  },
+  "failure_attempt_wall_latency": {
+    "n": 0,
+    "p50_ms": null,
+    "p95_ms": null,
+    "max_ms": null
+  },
+  "company_completion_latency": {
+    "n": 4,
+    "p50_ms": 1285.577,
+    "p95_ms": 2154.736,
+    "max_ms": 2154.736
+  },
+  "company_completion_synthetic_upper_bounds": 0,
+  "request_domain_fairness": {
+    "domains": 4,
+    "p50_requests": 6.0,
+    "p95_requests": 7.0,
+    "max_requests": 7
+  },
+  "response_statuses": {
+    "200": 21,
+    "302": 1,
+    "404": 1
+  },
+  "error_buckets": {},
+  "request_amplification_per_seed": 5.75,
+  "terminal_coverage": 1.0,
+  "crawl_complete": true,
+  "peak_rss_bytes": 157462528,
+  "output_sha256": "79b0b31dc6f2c31b00e92facfd3f4d386bc560f01c5c8b93749e04da7d6d9391",
+  "finish_reason": "finished",
+  "resume_noop": false,
+  "concurrency": 4,
+  "per_domain": 2,
+  "jobdir": "/root/daily-money-maker/signalpost/out/batch25-crawl-jobdir",
+  "events_path": "/root/daily-money-maker/signalpost/out/batch25-crawl-events.jsonl"
+}

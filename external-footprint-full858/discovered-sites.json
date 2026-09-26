@@ -1,0 +1,1391 @@
+[
+  {
+    "organisation_number": "810059672",
+    "name": "AASEN & FARSTAD AS",
+    "website": null,
+    "directory_presence": "https://www.norwayregistry.org/aasen-farstad-as",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T03:30:15.536404Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "810130822",
+    "name": "ALSTRA AS",
+    "website": "https://www.alstratech.com/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T03:31:09.437322Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "810392312",
+    "name": "METALLCO AS",
+    "website": "https://www.metallco.com/no/",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T03:32:07.464076Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "810438452",
+    "name": "BECKMANN AS",
+    "website": "https://beckmann-norway.com/policies/contact-information",
+    "own_site_signals": [
+      "org_number_printed",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T03:33:06.754089Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "810463902",
+    "name": "E BERENTSEN AS",
+    "website": null,
+    "directory_presence": "https://www.norwayregistry.org/e-berentsen-as",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T03:33:32.187821Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "810703342",
+    "name": "OCTOPUS EIENDOM AS",
+    "website": null,
+    "directory_presence": "https://www.creditsafe.com/business-index/en-lu/company/octopus-eiendom-as-no00000047",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T03:34:48.799368Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "810733772",
+    "name": "BORGE EIENDOM AS",
+    "website": null,
+    "directory_presence": "https://www.creditsafe.com/business-index/en-us/company/borge-eiendom-as-no00000050",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T03:35:07.330716Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811025542",
+    "name": "CHEMI TEKNIK AS",
+    "website": "https://chemi-teknik.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website"
+    ],
+    "verified_at": "2026-09-20T03:36:55.717415Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811176702",
+    "name": "SAS NORGE AS",
+    "website": null,
+    "directory_presence": "https://virksomhet.brreg.no/nb/oppslag/enheter/811176702",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T03:39:07.314168Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811280852",
+    "name": "HOVLAND TREVAREFABRIKK AS",
+    "website": null,
+    "directory_presence": "https://utdanning.no/bedrift/811280852/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T03:39:48.971285Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811489972",
+    "name": "HARALDSGATEN 168 AS",
+    "website": null,
+    "directory_presence": "https://www.creditsafe.com/business-index/en-lu/company/haraldsgaten-168-as-no00000099",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T03:41:16.003560Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811548022",
+    "name": "FRØY REDERI AS",
+    "website": null,
+    "directory_presence": "https://utdanning.no/bedrift/811548022/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T03:41:57.044406Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811592692",
+    "name": "VERFTSGATA 28 AS",
+    "website": null,
+    "directory_presence": "https://www.vexter.no/selskap/verftsgata-28-as/811592692",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T03:47:49.629766Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811593362",
+    "name": "ALTERA INFRASTRUCTURE CREWING AS",
+    "website": null,
+    "directory_presence": "https://virksomhet.brreg.no/en/oppslag/enheter/811593362",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T03:48:40.117091Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811598992",
+    "name": "FAVORIT AS",
+    "website": null,
+    "directory_presence": "https://www.favorit.cz/design-en",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T03:49:37.999134Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811604542",
+    "name": "ALF AS",
+    "website": "https://alf.no/konferanse-pamelding/",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T03:50:09.500910Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811608602",
+    "name": "UNDERSTELLSERVICE AS",
+    "website": "https://www.understellservice.no/",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T03:50:50.214611Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811610402",
+    "name": "KATTNAKKEN AS",
+    "website": "https://kattnakken.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T03:51:08.820432Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811613932",
+    "name": "AXELAR AS",
+    "website": "https://www.axelar.network/blog/an-introduction-to-the-axelar-network",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T03:51:27.726267Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811620882",
+    "name": "MILJØSTEIN NORGE AS",
+    "website": "https://miljostein.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T03:52:10.619037Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811640522",
+    "name": "ENZIAN AS",
+    "website": "https://enzian.systems/faq/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T03:56:46.119288Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811661112",
+    "name": "ALURA AS",
+    "website": "https://alura.no/blog/ai-logistikk-transport-norge",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T04:03:09.965098Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811665762",
+    "name": "O FJELBERG AS",
+    "website": "https://www.finn.no/job/ad/474665059",
+    "own_site_signals": [
+      "org_number_printed",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T04:03:47.718924Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811684872",
+    "name": "MANOV GLOBAL AS",
+    "website": null,
+    "directory_presence": "https://www.internationalcorp.org/manov-global-as",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T04:07:37.471586Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811689262",
+    "name": "HAALAND BILVERKSTED AS",
+    "website": null,
+    "directory_presence": "https://utdanning.no/bedrift/811689262/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T04:08:55.189857Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811695262",
+    "name": "STIFTELSEN ISLAMSK OPPLÆRING OG KULTURHUS",
+    "website": null,
+    "directory_presence": "https://bdinfo.no/org/811695262/stiftelsen-islamsk-opplaering-og-kulturhus/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T04:09:36.178393Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811711802",
+    "name": "SCHENK UTLEIE AS",
+    "website": "https://schenkutleie.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T04:15:30.934909Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811713902",
+    "name": "SOLVILLA AS",
+    "website": null,
+    "directory_presence": "https://www.solvilla.es/about/history/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T04:16:47.979312Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811732532",
+    "name": "ZNAPIO AS",
+    "website": "https://no.znapio.com/pages/about",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T04:23:43.911353Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811736252",
+    "name": "STIFTELSEN SÆTRE GÅRD",
+    "website": "https://www.asker.kommune.no/frivillighet-og-innbyggersamarbeid/lag-og-foreninger/kultur-og-kunst/stiftelsen-satre-gard/",
+    "own_site_signals": [
+      "org_number_printed",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_phone",
+      "description"
+    ],
+    "verified_at": "2026-09-20T04:24:40.555717Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811747092",
+    "name": "J.C. TRANSPORTSERVICE AS",
+    "website": null,
+    "directory_presence": "https://www.sportcompanies.org/j-c-transportservice-as",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T04:28:43.067568Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811748072",
+    "name": "AUDLY AS",
+    "website": "https://cnaudly.com/pvc-car-mat/",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T04:29:59.014067Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811766542",
+    "name": "BEKKJORDEN SKOG AS",
+    "website": "https://bekkjordenskog.no/",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T04:34:01.133890Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811767492",
+    "name": "TEA TRANSPORT AS",
+    "website": "https://www.teatransport.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T04:34:28.305620Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811772992",
+    "name": "ROMVESEN AS",
+    "website": "https://www.romvesen.as/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T04:38:09.236057Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811816302",
+    "name": "OJRD AS",
+    "website": "https://ojrd.soft112.com/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T04:48:58.011870Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811824062",
+    "name": "EXPIRA AS",
+    "website": "https://rejstrik-firem.kurzy.cz/expira-as-cr/",
+    "own_site_signals": [
+      "org_number_printed",
+      "email_domain_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T04:52:44.367500Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811824712",
+    "name": "MRBEE AS",
+    "website": "https://mrbee-ios.soft112.com/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T04:53:22.704510Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811842672",
+    "name": "SR UTVIKLING AS",
+    "website": "https://www.srutvikling.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T05:01:27.876115Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811851612",
+    "name": "KARLSAUNE MASKIN AS",
+    "website": "https://www.okab.no/medlem/karlsaune-maskin-as/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website"
+    ],
+    "verified_at": "2026-09-20T05:02:48.719407Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811853372",
+    "name": "FROLAND VERK AS",
+    "website": null,
+    "directory_presence": "https://bdinfo.no/org/811853372/froland-verk-as/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T05:03:15.399260Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811863262",
+    "name": "BUILTBY AS",
+    "website": "https://builtby-ios.soft112.com/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T05:07:42.829744Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811874132",
+    "name": "HØYER TRONDHEIM AS",
+    "website": "https://www.klesbutikk.no/butikk/hoeyer-trondheim-as",
+    "own_site_signals": [
+      "org_number_printed",
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T05:09:58.109369Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811887102",
+    "name": "SMB NETTVERK AS",
+    "website": null,
+    "directory_presence": "https://bdinfo.no/org/811887102/smb-nettverk-as/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T05:13:13.173587Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "811900702",
+    "name": "STRONGBOX AS",
+    "website": "https://www.strongboxmagazine.com/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T05:15:13.848367Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811938432",
+    "name": "TONAPP AS",
+    "website": "https://tonapp.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T05:23:46.350304Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811992062",
+    "name": "STIGEN AS",
+    "website": "https://www.stigen.co/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T05:40:19.732530Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "811992712",
+    "name": "VILLANGER TRAFIKKSKOLE AS",
+    "website": "https://villangertrafikkskole.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_phone",
+      "description"
+    ],
+    "verified_at": "2026-09-20T05:41:32.102895Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812005022",
+    "name": "ELEKTRO - PARTNER AS",
+    "website": "https://www.elektro-partner.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T05:50:11.178557Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812013742",
+    "name": "INGENIØR HANS BECKER AS",
+    "website": null,
+    "directory_presence": "https://www.creditsafe.com/business-index/en-lu/company/ingenior-hans-becker-as-no00000126",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T05:52:09.812859Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812021982",
+    "name": "DELCOM AS",
+    "website": "https://www.delcom.no/kontakt.html",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T05:54:58.089319Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812066242",
+    "name": "HELSELABEN AS",
+    "website": "https://www.helselaben.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T06:02:15.935264Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812067842",
+    "name": "SOLUND BYGG AS",
+    "website": "https://solundbygg.no/",
+    "own_site_signals": [
+      "org_number_printed",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T06:02:22.471146Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812076272",
+    "name": "ELEKTRO 12:24 AS",
+    "website": "https://www.elektro1224.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T06:04:57.387722Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812077902",
+    "name": "MUSIKK OG UNDERHOLDNING AS",
+    "website": "https://tikkio.com/organizer/1420-musikk-og-underholdning-as",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T06:05:17.483938Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812080482",
+    "name": "MJØSBETONG AS",
+    "website": "https://mjosbetong.no/kontakt/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T06:05:40.235773Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812081012",
+    "name": "RAFAGLASS AS",
+    "website": null,
+    "directory_presence": "https://bdinfo.no/org/812081012/rafaglass-as/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T06:06:24.741327Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812085352",
+    "name": "IK PROPERTY AS",
+    "website": null,
+    "directory_presence": "https://lei.report/LEI/5493008MHCSUEV51RO30/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T06:06:48.452404Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812098152",
+    "name": "SINDING AS",
+    "website": "https://sinding.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T06:08:21.984547Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812099132",
+    "name": "BILPLEIEKONGEN AS",
+    "website": "https://bilpleiekongen.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T06:08:47.014383Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812154672",
+    "name": "DS CONSULTING AS",
+    "website": "https://ds-consulting.framer.website/mission-&-team",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T06:29:58.006108Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812156632",
+    "name": "VOSSAMORO AS",
+    "website": "https://www.vossamoro.no/booking",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T06:32:06.212395Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812159062",
+    "name": "ASKEPOTTS RENHOLD AS",
+    "website": null,
+    "directory_presence": "https://www.renholdere.no/renholdere/askepotts-renhold-as/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T06:33:29.328665Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812181882",
+    "name": "SKOGSKRAFT AS",
+    "website": "https://skogskraft.no/",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T06:52:39.948828Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812181912",
+    "name": "LIFTMANN AS",
+    "website": "https://liftmann.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T06:53:07.824720Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812187082",
+    "name": "TELLUS LOGISTICS AS",
+    "website": "https://www.telluslogistics.no/",
+    "own_site_signals": [
+      "org_number_printed",
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T06:57:54.345465Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812196502",
+    "name": "SØR RESTAURERING AS",
+    "website": "https://www.sorrestaurering.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T07:06:05.839663Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812206222",
+    "name": "GYLDENDAL ASA",
+    "website": "https://www.gyldendal.no/personvern/gyldendal-asa",
+    "own_site_signals": [
+      "org_number_printed",
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T07:11:57.941655Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812212982",
+    "name": "KRAS AS",
+    "website": "https://www.kraskickers.org/post/the-improbable-targeted-therapy-kras-as-an-emerging-target-in-non-small-cell-lung-cancer",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T07:17:14.168622Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812231022",
+    "name": "KRISTIANSUND STADION AS",
+    "website": "https://poppel.app/peppol-prod/0192/812231022",
+    "own_site_signals": [
+      "org_number_printed",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T07:21:03.379040Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812243772",
+    "name": "OBJECT GENERATION AS",
+    "website": "https://forvalt.no/Nettbutikk/Produkter/812243772",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T07:23:30.050453Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812250442",
+    "name": "GOA AS",
+    "website": null,
+    "directory_presence": "https://www.heraldgoa.in/cafe/from-goa-to-alibaug-indias-coastal-towns-turning-into-luxury-real-estate-hotspots/476061/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T07:24:36.629849Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812262432",
+    "name": "MASKIN UTLEIE AS",
+    "website": "https://maskin-utleie.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T07:30:48.010878Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812269062",
+    "name": "ANDANTE AS",
+    "website": null,
+    "directory_presence": "https://www.hotel-andante-rust.de/en/about-us",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T07:32:42.487380Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812276212",
+    "name": "FEEL FREE PRODUCTION AS",
+    "website": "https://www.feelfreeproduction.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T07:34:27.718552Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812300822",
+    "name": "RENT OG RYDDIG AS",
+    "website": "https://rentogryddig.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T07:42:55.837677Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812355252",
+    "name": "ET WORKS AS",
+    "website": "https://www.etworks.com/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:01:03.447785Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812389092",
+    "name": "NORSK NATURFOTOFESTIVAL AS",
+    "website": "https://tikkio.com/organizer/16120-birgit-fostervold",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:10:32.930226Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812391402",
+    "name": "KAASENE GROUP AS",
+    "website": null,
+    "directory_presence": "https://nordlei.org/lei/6367001RHAPPLYT9L543/kaasene-group-as",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T08:12:15.617142Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812398652",
+    "name": "HÅRSTRÅET AS",
+    "website": "https://krsfirma.no/h%C3%A5rstr%C3%A5et-as",
+    "own_site_signals": [
+      "org_number_printed",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:13:28.592289Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812417312",
+    "name": "HARALDSEN AUTO AS",
+    "website": "https://haraldsenauto.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_phone",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:17:01.150703Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812428632",
+    "name": "DEYOUNG INVEST AS",
+    "website": null,
+    "directory_presence": "https://www.generate.no/bedrift/812428632/DEYOUNG-INVEST-AS",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T08:18:06.655403Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812440942",
+    "name": "CLIMATECH AS",
+    "website": "https://climatech.net.au/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:20:04.358285Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812441752",
+    "name": "VUVI AS",
+    "website": "https://vuvi.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:20:25.482719Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812442562",
+    "name": "NOBOX AS",
+    "website": "https://www.worldfreedomfund.org/personvern",
+    "own_site_signals": [
+      "org_number_printed",
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:20:49.267521Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812456172",
+    "name": "SEC-CONSULT AS",
+    "website": "https://sec-consult.com/vulnerability-lab/advisory/multiple-vulnerabilities-in-kiddoware-kids-place-parental-control-android-app/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_phone",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:21:40.124760Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812459392",
+    "name": "KKA HOLDING AS",
+    "website": null,
+    "directory_presence": "https://lei.report/LEI/549300J21GGHC6PN1F87/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T08:21:56.991004Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812467182",
+    "name": "&MORE AS",
+    "website": "https://www.praymorenovenas.com/st-thomas-more-novena",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:23:10.399691Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812467522",
+    "name": "SILVERSTONE AS",
+    "website": "https://www.silverstone.co.uk/news/part-track-meet-silverstones-female-volunteers-who-create-unforgettable-moments",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:23:29.858745Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812488872",
+    "name": "TVEITO MASKIN AS",
+    "website": "https://www.tveito-maskin.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:26:15.913255Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812509462",
+    "name": "STOKKAVIK AS",
+    "website": "https://stokkavik.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:30:24.343261Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812511432",
+    "name": "FAGMALEREN FRED THORSEN OG SØNN AS",
+    "website": null,
+    "directory_presence": "https://utdanning.no/bedrift/812511432/",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T08:31:00.002801Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812520202",
+    "name": "HAVANA - MAGASINET AS",
+    "website": "https://havanamagasinet.no/om-oss/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:34:09.204262Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812546902",
+    "name": "BYGG-ENGROS AS",
+    "website": "https://bygg-engros.no/",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T08:46:11.208946Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812668722",
+    "name": "ATYS AS",
+    "website": null,
+    "directory_presence": "https://www.atys.pro/blog/crm/nao-perder-leads-instagram-facebook",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T09:45:57.664779Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812676342",
+    "name": "A HILLING AS",
+    "website": null,
+    "directory_presence": "https://www.creditsafe.com/business-index/en-lu/company/a-hilling-as-no00000160",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T09:50:00.135927Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812717642",
+    "name": "KRAFTVERKET AS",
+    "website": "https://kraftverket-as.no/",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T10:05:59.631580Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812717952",
+    "name": "BASTEC AS",
+    "website": "https://www.bastec.se/partner-page-lenpower-hungary/",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T10:06:30.398488Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812719432",
+    "name": "RSI INVESTERING AS",
+    "website": null,
+    "directory_presence": "https://regnskapsbasen.no/selskap/rsi-investering-as-812719432",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T10:07:20.557605Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812719882",
+    "name": "FERNLØF AS",
+    "website": "https://www.fernlof.no/",
+    "own_site_signals": [
+      "email_domain_match",
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "contact_email",
+      "description"
+    ],
+    "verified_at": "2026-09-20T10:08:00.314331Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812750712",
+    "name": "YCH AS",
+    "website": "https://ych.art/auction/4383",
+    "own_site_signals": [
+      "full_exact_name_match"
+    ],
+    "facts": [
+      "website",
+      "description"
+    ],
+    "verified_at": "2026-09-20T10:11:56.309952Z",
+    "proof": "independent fetched-page exact-entity identity gate (deterministic_name_org_evidence_v2)"
+  },
+  {
+    "organisation_number": "812799932",
+    "name": "FUTUREFROGS AS",
+    "website": null,
+    "directory_presence": "https://opplysning.byndle.no/selskap/futurefrogs-as/812799932/4790",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T10:36:30.401659Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  },
+  {
+    "organisation_number": "812841122",
+    "name": "KEJOH INVEST AS",
+    "website": null,
+    "directory_presence": "https://www.generate.no/bedrift/812841122/KEJOH-INVEST-AS",
+    "facts": [
+      "web_presence_directory"
+    ],
+    "verified_at": "2026-09-20T10:54:51.681436Z",
+    "proof": "independent fetched-page identity gate; NOT claimed as company website (third-party/directory host or weak identity evidence)"
+  }
+]

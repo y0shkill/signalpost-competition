@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-09-15T04:49:13.859150Z",
+  "started_at": "2026-09-15T04:37:45.815952Z",
+  "provider": "ddg",
+  "provider_chain": [
+    "ddg",
+    "searx"
+  ],
+  "provider_endpoint": "https://html.duckduckgo.com/html/",
+  "input_profiles": 20,
+  "queried_missing_website_profiles": 20,
+  "counts": {
+    "provider_requests": 40,
+    "provider_bytes": 140289,
+    "provider_errors": 20,
+    "independent_crawls": 5,
+    "crawl_requests": 46,
+    "quarantined_sites": 1,
+    "abstained_before_crawl": 15,
+    "verified_sites": 4,
+    "promoted_sites": 4
+  },
+  "provider_latency_ms": {
+    "p50": 14210,
+    "p95": 20029
+  },
+  "rate_limit": "random sleep 3.0-5.0s between search requests",
+  "raw_search_results_persisted": false,
+  "promote_verified_enabled": true,
+  "qualification": "not_evaluated_on_500_org_external_final_corpus"
+}

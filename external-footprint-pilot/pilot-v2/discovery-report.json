@@ -1,0 +1,34 @@
+{
+  "generated_at": "2026-09-16T06:22:39.896989Z",
+  "started_at": "2026-09-16T05:12:42.725832Z",
+  "connector": "external_footprint_discovery_v1",
+  "provider_chain": [
+    "ddg",
+    "searx",
+    "bing"
+  ],
+  "provider_endpoint": "https://html.duckduckgo.com/html/",
+  "sample_size_requested": 120,
+  "sample_seed": 20260916,
+  "counts": {
+    "queried": 120,
+    "provider_requests": 246,
+    "provider_bytes": 1297974,
+    "abstained_no_crawl_candidate": 80,
+    "crawl_candidates": 40,
+    "crawl_requests": 156,
+    "quarantined_not_exact_entity": 22,
+    "verified_sites": 10,
+    "verified_directory_presence": 8
+  },
+  "facts_generated": 32,
+  "claims_per_verified_site": 3.2,
+  "provider_latency_ms": {
+    "p50": 17047,
+    "p95": 20046
+  },
+  "rate_limit": "random sleep 3.0-5.0s between search requests",
+  "raw_search_results_persisted": false,
+  "abstain_policy": "no crawl candidate without exact-entity evidence; doubtful matches skipped",
+  "wrong_entity_publications": 0
+}

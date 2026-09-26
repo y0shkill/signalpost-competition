@@ -1,0 +1,35 @@
+{
+  "scorer": "signalpost_external_footprint_eval_v1",
+  "claim_boundary": "Audit of the external-footprint-full858 discovery run (connector external_footprint_discovery_v1) against the frozen 1000-company submission; local harness only.",
+  "profiles": 1000,
+  "observations": 193,
+  "audited_observations": 139,
+  "published_audited": 139,
+  "wrong_entity_publications": 0,
+  "unsupported_publications": 0,
+  "entity_precision": 1.0,
+  "metric_precision": 1.0,
+  "sentiment_audited": 0,
+  "sentiment_accuracy": null,
+  "coverage": {
+    "any_external": 0.078,
+    "two_platforms": 0.0,
+    "workforce_jobs": 0.0,
+    "ratings_reviews": 0.0,
+    "buzz_engagement": 0.047,
+    "sentiment": 0.0
+  },
+  "fresh_coverage": 1.0,
+  "platform_counts": {
+    "company_directory": 31,
+    "company_site": 108
+  },
+  "acquisition_modes": {
+    "permitted_public_page": 139
+  },
+  "minimum_audit": 100,
+  "audit_size_gate": true,
+  "connector_policy_passed": true,
+  "connector_policy_note": "Keyless public search chain (DDG HTML -> SearXNG JSON -> Bing HTML), random 3-6 s rate limit, no raw search persistence, crawl-gated exact-entity publication (deterministic_name_org_evidence_v2); acquisition_mode permitted_public_page for all observations.",
+  "qualification_passed": true
+}

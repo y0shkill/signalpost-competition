@@ -1,0 +1,19 @@
+{
+  "scorer": "signalpost_ux_proxy_v1",
+  "claim_boundary": "Local proxy for product/UX presentation; the judge's rubric is authoritative.",
+  "corpus": "run1000-001 scorecard preview (build_prototype.py, 200-profile showcase + 1000 in index)",
+  "external_intelligence_presented": true,
+  "components": {
+    "single_company_qa": 2.0,
+    "cross_company_screening": 1.5,
+    "exact_inspectable_filters": 1.0,
+    "unsupported_abstention": 0.5,
+    "saved_history": 0.5,
+    "provenance_export": 0.5,
+    "external_intelligence_layer": 0.5,
+    "adverse_state_and_availability_copy": 0.5
+  },
+  "score": 7.0,
+  "maximum": 8,
+  "qualification_passed": true
+}

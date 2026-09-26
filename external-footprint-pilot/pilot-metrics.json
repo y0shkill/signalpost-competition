@@ -1,0 +1,39 @@
+{
+  "pilot": "external_footprint_discovery_v1",
+  "generated_at": "2026-09-16T09:00:00Z",
+  "sample": {"size": 120, "seed": 20260916, "population": "orgs without registry website (858/1000)"},
+  "provider_chain": ["ddg_html", "searx_json", "bing_html"],
+  "keyless": true,
+  "funnel": {
+    "queried": 120,
+    "abstained_no_crawl_candidate": 80,
+    "crawl_candidates": 40,
+    "quarantined_identity_gate_fail": 22,
+    "published_site_seeds": 10,
+    "published_directory_presence": 8
+  },
+  "precision": {
+    "site_seeds_run1_pilot120": {"published": 20, "true": 9, "pct": 45.0, "verdict": "FAILED bar — wrong-company blocker"},
+    "site_seeds_v2_after_guards": {"published": 10, "true": 9, "pct": 90.0, "note": "1 FP (baransu.wordpress.com free-host blog) — closed by FREE_HOST_SUFFIXES fix, projected 10/10 = 100% on re-run"},
+    "directory_presence_facts": {"published": 8, "true": 8, "pct": 100.0},
+    "fact_attribution_v2": {"published_facts": 32, "correctly_attributed": 23, "pct": 71.9, "note": "descriptions/emails inherit the 1 site-FP"}
+  },
+  "recall_estimate": {
+    "own_site_discovery_absolute": "9/120 = 7.5% of sampled population",
+    "external_recall_vs_60pct_criterion": "not measurable without organiser labels; batch25 spot-check of abstainers found no site for any (abstains ≈ true negatives)",
+    "ceiling_note": "many of the 858 missing-website orgs are holding/property/trade shells with no real web presence"
+  },
+  "facts_generated": 32,
+  "wrong_entity_publications_after_guards": 1,
+  "guard_upgrades": [
+    "choose_search_candidate: unknown non-blocked hosts with name evidence become crawl candidates (recall fix)",
+    "BLOCKED_DISCOVERY_HOSTS += business.google.com, bedriftsoversikten.no, b2bhint.com, opencorporates.com",
+    "KNOWN_DIRECTORY_DOMAINS: 40+ registry/LEI/credit-report/directory domains",
+    "NON_COMPANY_URL_RE: /lei/, /org/, business-index, registry patterns",
+    "FREE_HOST_SUFFIXES: wordpress.com, wixsite.com, business.site ...",
+    "FOREIGN_TLD_HINTS: exotic TLDs need corroborating evidence",
+    "own_site_signals: org_number_printed | email_domain_match | full_exact_name_match (>=2 tokens); single-token matches downgraded to directory fact",
+    "web_presence_directory fact type (platform company_directory) for third-party pages — real evidence about the company, never a site seed"
+  ],
+  "verdict": "Site-seed precision 90% (>= 60% bar) after guards; absolute recall on keyless public search is low (~15% of sampled orgs yield any fact). Wrong-company blocker: 1 residual FP closed by the free-host fix before the full 858-org run."
+}

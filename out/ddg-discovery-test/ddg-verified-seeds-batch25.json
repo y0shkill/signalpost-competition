@@ -1,0 +1,26 @@
+[
+  {
+    "organisation_number": "810130822",
+    "website": "https://www.alstramax.com/",
+    "proof_url": "https://www.alstramax.com/",
+    "proof": "independent fetched-page exact-entity identity gate"
+  },
+  {
+    "organisation_number": "810324562",
+    "website": "https://www.servi.no/en/about-us/history-servi-group",
+    "proof_url": "https://www.servi.no/en/about-us/history-servi-group",
+    "proof": "independent fetched-page exact-entity identity gate"
+  },
+  {
+    "organisation_number": "810392312",
+    "website": "https://www.metallco.com/no/",
+    "proof_url": "https://www.metallco.com/no/",
+    "proof": "independent fetched-page exact-entity identity gate"
+  },
+  {
+    "organisation_number": "810438452",
+    "website": "https://beckmann-norway.com/policies/contact-information",
+    "proof_url": "https://beckmann-norway.com/policies/contact-information",
+    "proof": "independent fetched-page exact-entity identity gate"
+  }
+]

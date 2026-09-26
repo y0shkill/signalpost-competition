@@ -1,0 +1,13 @@
+{
+  "companies_in_batch25_rows": 20,
+  "unique_companies_queried": 20,
+  "sites_selected_for_crawl": 5,
+  "sites_verified_exact_entity": 4,
+  "verified_rate_pct": 20.0,
+  "selection_rate_pct": 25.0,
+  "external_claims_generated": 5,
+  "news_claims": 1,
+  "activity_claims": 4,
+  "provider_notes": "ddg: 20/20 bot-challenge (datacenter IP flagged since first batch test), searx fallback served all queries; 20 searx request errors were failover noise from a second junk instance (sx.xo.st) while primary instance search.lumy.live served 15/20 queries with real results",
+  "abstain_analysis": "manual spot-check of 4 abstainers via a second search provider found no official site for any \u2014 abstains are mostly true negatives (small property/holding/trade companies), not gate failures"
+}

@@ -1,0 +1,444 @@
+[
+ {
+  "organisation_number": "810392312",
+  "name": "METALLCO AS",
+  "website": "https://www.metallco.com/no/",
+  "own_site_signals": [
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.metallco.com/no/",
+  "org_printed": false,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "810438452",
+  "name": "BECKMANN AS",
+  "website": "https://beckmann-norway.com/policies/contact-information",
+  "own_site_signals": [
+   "org_number_printed",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://beckmann-norway.com/policies/contact-information",
+  "org_printed": true,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "811604542",
+  "name": "ALF AS",
+  "website": "https://alf.no/konferanse-pamelding/",
+  "own_site_signals": [
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://alf.no/konferanse-pamelding/",
+  "org_printed": false,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "811608602",
+  "name": "UNDERSTELLSERVICE AS",
+  "website": "https://www.understellservice.no/",
+  "own_site_signals": [
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.understellservice.no/",
+  "org_printed": false,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "811665762",
+  "name": "O FJELBERG AS",
+  "website": "https://www.finn.no/job/ad/474665059",
+  "own_site_signals": [
+   "org_number_printed",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.finn.no/job/ad/474665059",
+  "org_printed": true,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "811736252",
+  "name": "STIFTELSEN SÆTRE GÅRD",
+  "website": "https://www.asker.kommune.no/frivillighet-og-innbyggersamarbeid/lag-og-foreninger/kultur-og-kunst/stiftelsen-satre-gard/",
+  "own_site_signals": [
+   "org_number_printed",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.asker.kommune.no/frivillighet-og-innbyggersamarbeid/lag-og-foreninger/kultur-og-kunst/stiftelsen-satre-gard/",
+  "org_printed": true,
+  "name_token_hits": 3,
+  "name_tokens": 3
+ },
+ {
+  "organisation_number": "811748072",
+  "name": "AUDLY AS",
+  "website": "https://cnaudly.com/pvc-car-mat/",
+  "own_site_signals": [
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://cnaudly.com/pvc-car-mat/",
+  "org_printed": false,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "811766542",
+  "name": "BEKKJORDEN SKOG AS",
+  "website": "https://bekkjordenskog.no/",
+  "own_site_signals": [
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://bekkjordenskog.no/",
+  "org_printed": false,
+  "name_token_hits": 2,
+  "name_tokens": 2
+ },
+ {
+  "organisation_number": "811824062",
+  "name": "EXPIRA AS",
+  "website": "https://rejstrik-firem.kurzy.cz/expira-as-cr/",
+  "own_site_signals": [
+   "org_number_printed",
+   "email_domain_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://rejstrik-firem.kurzy.cz/expira-as-cr/",
+  "org_printed": true,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "811874132",
+  "name": "HØYER TRONDHEIM AS",
+  "website": "https://www.klesbutikk.no/butikk/hoeyer-trondheim-as",
+  "own_site_signals": [
+   "org_number_printed",
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.klesbutikk.no/butikk/hoeyer-trondheim-as",
+  "org_printed": true,
+  "name_token_hits": 2,
+  "name_tokens": 2
+ },
+ {
+  "organisation_number": "812021982",
+  "name": "DELCOM AS",
+  "website": "https://www.delcom.no/kontakt.html",
+  "own_site_signals": [
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.delcom.no/kontakt.html",
+  "org_printed": false,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "812067842",
+  "name": "SOLUND BYGG AS",
+  "website": "https://solundbygg.no/",
+  "own_site_signals": [
+   "org_number_printed",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://solundbygg.no/",
+  "org_printed": true,
+  "name_token_hits": 2,
+  "name_tokens": 2
+ },
+ {
+  "organisation_number": "812156632",
+  "name": "VOSSAMORO AS",
+  "website": "https://www.vossamoro.no/booking",
+  "own_site_signals": [
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.vossamoro.no/booking",
+  "org_printed": false,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "812181882",
+  "name": "SKOGSKRAFT AS",
+  "website": "https://skogskraft.no/",
+  "own_site_signals": [
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://skogskraft.no/",
+  "org_printed": true,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "812187082",
+  "name": "TELLUS LOGISTICS AS",
+  "website": "https://www.telluslogistics.no/",
+  "own_site_signals": [
+   "org_number_printed",
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.telluslogistics.no/",
+  "org_printed": false,
+  "name_token_hits": 2,
+  "name_tokens": 2
+ },
+ {
+  "organisation_number": "812206222",
+  "name": "GYLDENDAL ASA",
+  "website": "https://www.gyldendal.no/personvern/gyldendal-asa",
+  "own_site_signals": [
+   "org_number_printed",
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.gyldendal.no/personvern/gyldendal-asa",
+  "org_printed": true,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "812231022",
+  "name": "KRISTIANSUND STADION AS",
+  "website": "https://poppel.app/peppol-prod/0192/812231022",
+  "own_site_signals": [
+   "org_number_printed",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://poppel.app/peppol-prod/0192/812231022",
+  "org_printed": true,
+  "name_token_hits": 2,
+  "name_tokens": 2
+ },
+ {
+  "organisation_number": "812398652",
+  "name": "HÅRSTRÅET AS",
+  "website": "https://krsfirma.no/h%C3%A5rstr%C3%A5et-as",
+  "own_site_signals": [
+   "org_number_printed",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://krsfirma.no/h%C3%A5rstr%C3%A5et-as",
+  "org_printed": true,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "812442562",
+  "name": "NOBOX AS",
+  "website": "https://www.worldfreedomfund.org/personvern",
+  "own_site_signals": [
+   "org_number_printed",
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.worldfreedomfund.org/personvern",
+  "org_printed": false,
+  "name_token_hits": 0,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "812717642",
+  "name": "KRAFTVERKET AS",
+  "website": "https://kraftverket-as.no/",
+  "own_site_signals": [
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://kraftverket-as.no/",
+  "org_printed": false,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "812717952",
+  "name": "BASTEC AS",
+  "website": "https://www.bastec.se/partner-page-lenpower-hungary/",
+  "own_site_signals": [
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.bastec.se/partner-page-lenpower-hungary/",
+  "org_printed": false,
+  "name_token_hits": 0,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "812719882",
+  "name": "FERNLØF AS",
+  "website": "https://www.fernlof.no/",
+  "own_site_signals": [
+   "email_domain_match",
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.fernlof.no/",
+  "org_printed": false,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "812005022",
+  "name": "ELEKTRO - PARTNER AS",
+  "website": "https://www.elektro-partner.no/",
+  "own_site_signals": [
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.elektro-partner.no/",
+  "org_printed": false,
+  "name_token_hits": 2,
+  "name_tokens": 2
+ },
+ {
+  "organisation_number": "811767492",
+  "name": "TEA TRANSPORT AS",
+  "website": "https://www.teatransport.no/",
+  "own_site_signals": [
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.teatransport.no/",
+  "org_printed": false,
+  "name_token_hits": 2,
+  "name_tokens": 2
+ },
+ {
+  "organisation_number": "812098152",
+  "name": "SINDING AS",
+  "website": "https://sinding.no/",
+  "own_site_signals": [
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://sinding.no/",
+  "org_printed": false,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "812467182",
+  "name": "&MORE AS",
+  "website": "https://www.praymorenovenas.com/st-thomas-more-novena",
+  "own_site_signals": [
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.praymorenovenas.com/st-thomas-more-novena",
+  "org_printed": false,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "811613932",
+  "name": "AXELAR AS",
+  "website": "https://www.axelar.network/blog/an-introduction-to-the-axelar-network",
+  "own_site_signals": [
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://www.axelar.network/blog/an-introduction-to-the-axelar-network",
+  "org_printed": false,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "811620882",
+  "name": "MILJØSTEIN NORGE AS",
+  "website": "https://miljostein.no/",
+  "own_site_signals": [
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://miljostein.no/",
+  "org_printed": false,
+  "name_token_hits": 2,
+  "name_tokens": 2
+ },
+ {
+  "organisation_number": "812300822",
+  "name": "RENT OG RYDDIG AS",
+  "website": "https://rentogryddig.no/",
+  "own_site_signals": [
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://rentogryddig.no/",
+  "org_printed": true,
+  "name_token_hits": 2,
+  "name_tokens": 2
+ },
+ {
+  "organisation_number": "811661112",
+  "name": "ALURA AS",
+  "website": "https://alura.no/blog/ai-logistikk-transport-norge",
+  "own_site_signals": [
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://alura.no/blog/ai-logistikk-transport-norge",
+  "org_printed": false,
+  "name_token_hits": 1,
+  "name_tokens": 1
+ },
+ {
+  "organisation_number": "812077902",
+  "name": "MUSIKK OG UNDERHOLDNING AS",
+  "website": "https://tikkio.com/organizer/1420-musikk-og-underholdning-as",
+  "own_site_signals": [
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://tikkio.com/organizer/1420-musikk-og-underholdning-as",
+  "org_printed": true,
+  "name_token_hits": 2,
+  "name_tokens": 2
+ },
+ {
+  "organisation_number": "812417312",
+  "name": "HARALDSEN AUTO AS",
+  "website": "https://haraldsenauto.no/",
+  "own_site_signals": [
+   "full_exact_name_match"
+  ],
+  "http_status": 200,
+  "final_url": "https://haraldsenauto.no/",
+  "org_printed": false,
+  "name_token_hits": 2,
+  "name_tokens": 2
+ }
+]

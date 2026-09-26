@@ -1,0 +1,27 @@
+# Build artifacts / caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Big data files (regenerable / too large for GitHub)
+brreg-enheter.csv
+signalpost-universe.jsonl.gz
+out/profiles-1000.jsonl
+out/profiles-smoke50.jsonl
+out/envelopes-1000.jsonl
+out/envelopes-smoke50.jsonl
+out/*.jsonl.gz
+
+# Entry data kept out of git except the manifest
+entry-smoke-50.jsonl
+data/*.csv
+
+# Local env
+.env
+# Submission-email drafts (internal, must not be committed)
+out/resubmit-email*.md
+out/resubmit-email*.txt
+out/*email-draft*
